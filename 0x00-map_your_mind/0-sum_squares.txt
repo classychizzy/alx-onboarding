@@ -1,0 +1,15 @@
+// this pseudocode is for solving the sum of squares of a given input.
+// let N represent the first number. 
+// let y represent the second number.
+// create a Function that takes both values as it's parameter
+function squares (n, y){ 
+    // create Variables that is assigned the value of the squares.
+      of each number
+    let nSquared = n x n
+    let ySquared = y x y
+    // calculate the sum of each of the newly declared Variables
+    let sum = nSquared + ySquared
+    return sum
+}
+
+
