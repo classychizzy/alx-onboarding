@@ -1,0 +1,5 @@
+// A code that calculates a running sum
+// prompt users to enter a number
+// use While loop to loop through the sum
+  break loop once a negative number is encountered
+  //write out result on the Console
